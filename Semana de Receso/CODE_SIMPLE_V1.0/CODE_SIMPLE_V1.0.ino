@@ -109,3 +109,17 @@ void Stop(){
   digitalWrite(IN3,LOW);
   digitalWrite(IN4,LOW);
 }
+
+// Parte a incluir para hacer que el sumbot se encienda solo cuando no detecta un enemigo.
+
+ // if (distance >= 20 && IR_front <= 650 && IR_back <= 650)
+ // {
+//    Rotate();
+ //   delay(1000); // Time of rotation
+//    Stop();
+//  }
+//  else
+//  {
+
+
+
