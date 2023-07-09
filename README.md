@@ -1,4 +1,4 @@
-# Proyecto "Robot Sumo" Grupo 7
+# Proyecto "Robot Sumo" Grupo 7 + 6
 
 En el presente repositorio se documentará el trabajo realizado para el proyecto semestral  
 del ramo Fabricación Digital del departamento de ingeniería civil mecánica de la Universidad  
