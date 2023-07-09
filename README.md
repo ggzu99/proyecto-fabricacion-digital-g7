@@ -16,6 +16,3 @@ En la carpeta actualizada hay subcarpetas denominadas:
   de sensores infrarojos y los soportes de motor
 * **SUMOCODE**: Posee el archivo .ino correspondiente al código para cargar en el Arduino y que el robot funcione
 
-En específico el proyecto corresponde al desarrollo completo de un robot de pelea tipo "Sumo".  
-Para lo anterior se diseñará la electrónica del mismo, así como también el chasis que soportará  
-la misma. 
