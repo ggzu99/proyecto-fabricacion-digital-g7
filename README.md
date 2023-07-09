@@ -13,6 +13,6 @@ En la carpeta actualizada hay subcarpetas denominadas:
   documento llamado "Consideraciones Manufactura en CNC - Chasis Inferior" que entrega algunas consideraciones y recomendaciones
   para manufacturar el chasis.
 * **STL**: Contiene los archivos .STL para poder procesar en software de impresión 3D e imprimir la cubierta de chasis, los soportes
-  de sensores infrarojos y los soportes de motor
+  de sensores infrarojos, los soportes de motor y el portabatería.
 * **SUMOCODE**: Posee el archivo .ino correspondiente al código para cargar en el Arduino y que el robot funcione
 
