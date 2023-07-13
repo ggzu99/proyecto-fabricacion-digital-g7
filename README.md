@@ -23,6 +23,5 @@ En la carpeta actualizada hay subcarpetas denominadas:
 Además, hay archivos adicionales, como "BOM FINAL" correspondiente a la lista de componentes y partes usadas y "Esquemático Sumobot",
 el cual corresponde al esquemático electrónico del robot"
 
-Finalmente, existe una carpeta  llamada "**GRAFICO**" que posee imagenes de algunos componentes para facilitar la comprensión de su ubicación y montaje. Además, incluye un video
-demostrativo del robot en funcionamiento.
+
 
