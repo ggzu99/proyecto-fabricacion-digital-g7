@@ -7,7 +7,7 @@ del ramo Fabricación Digital del departamento de ingeniería civil mecánica de
 de Chile. 
 
 Los avances semanales se encuentran ordenados por carpetas de nombre "Semana XX" donde XX corresponde a la  
-semana de avance en cuestión. Los archivos actualizados y finales se encuentran en la carpeta "SEMANA DE EXAMEN". 
+semana de avance en cuestión. Los archivos actualizados y finales se encuentran en la carpeta "SEMANA 15". 
 
 En la carpeta actualizada hay subcarpetas denominadas:
 * **CAD**: Contiene todos los archivos CAD del proyecto, en formato universal .STP y un archivo PDF demostrativo de los componentes
@@ -18,9 +18,11 @@ En la carpeta actualizada hay subcarpetas denominadas:
 * **STL**: Contiene los archivos .STL para poder procesar en software de impresión 3D e imprimir la cubierta de chasis, los soportes
   de sensores infrarojos, los soportes de motor y el portabatería.
 * **SUMOCODE_FINAL**: Posee el archivo .ino correspondiente al código para cargar en el Arduino y que el robot funcione
-* **GRAFICO**: Posee imagenes de algunos componentes para facilitar la comprensión de su ubicación y montaje. Además, incluye un video
-  demostrativo del robot en funcionamiento.
+
 
 Además, hay archivos adicionales, como "BOM FINAL" correspondiente a la lista de componentes y partes usadas y "Esquemático Sumobot",
 el cual corresponde al esquemático electrónico del robot"
+
+Finalmente, existe una carpeta  llamada "**GRAFICO**" que posee imagenes de algunos componentes para facilitar la comprensión de su ubicación y montaje. Además, incluye un video
+demostrativo del robot en funcionamiento.
 
