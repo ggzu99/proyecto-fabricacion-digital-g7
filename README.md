@@ -15,6 +15,8 @@ En la carpeta actualizada hay subcarpetas denominadas:
 * **STL**: Contiene los archivos .STL para poder procesar en software de impresión 3D e imprimir la cubierta de chasis, los soportes
   de sensores infrarojos, los soportes de motor y el portabatería.
 * **SUMOCODE_FINAL**: Posee el archivo .ino correspondiente al código para cargar en el Arduino y que el robot funcione
+* **GRAFICO**: Posee imagenes de algunos componentes para facilitar la comprensión de su ubicación y montaje. Además, incluye un video
+  demostrativo del robot en funcionamiento.
 
 Además, hay archivos adicionales, como "BOM FINAL" correspondiente a la lista de componentes y partes usadas y "Esquemático Sumobot",
 el cual corresponde al esquemático electrónico del robot"
